@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancel_Token_Example", "Cancel_Token_Example\Cancel_Token_Example.csproj", "{D132943E-B9BB-4F36-AC85-7741937040EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D132943E-B9BB-4F36-AC85-7741937040EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D132943E-B9BB-4F36-AC85-7741937040EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D132943E-B9BB-4F36-AC85-7741937040EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D132943E-B9BB-4F36-AC85-7741937040EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67886F7-C636-40B8-826F-2A7B8145D976}
+	EndGlobalSection
+EndGlobal
